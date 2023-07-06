@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Absen"
+        android:title="profile"
+        android:icon="@drawable/profile"/>
+
+    <item
+        android:id="@+id/Laporan"
+        android:title="Laporan Kerja Harian"
+        android:icon="@drawable/laporan"/>
+
+    <item
+        android:id="@+id/Info"
+        android:title="Info"
+        android:icon="@drawable/tentang"/>
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530769537756",
+    "project_id": "myyabsensi",
+    "storage_bucket": "myyabsensi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530769537756:android:1289036f8544c731502219",
+        "android_client_info": {
+          "package_name": "com.example.myappabsensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530769537756-4oipv9ip8q6jqulu0ufrab87j3uc3t24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNeDuMP2E1bKlXo5xGNexJBOuPBTTkmok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530769537756-4oipv9ip8q6jqulu0ufrab87j3uc3t24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
